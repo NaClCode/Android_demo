@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/+not-found.jsx", "../user.tsx", "app/intro.jsx", "app/signup.jsx", "app/_layout.jsx", "app/(tabs)/user.jsx", "app/(tabs)/comment.jsx", "app/(tabs)/_layout.jsx", "app/(tabs)/index.jsx", "app/setting/_layout.jsx", "app/setting/index.jsx", "app/register/_layout.jsx", "app/register/index.jsx", "app/login/_layout.jsx", "app/login/index.jsx", "hooks/useColorScheme.js"  ]
 }
